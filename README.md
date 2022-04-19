@@ -4,7 +4,7 @@ Before talking about sentience and consciousness, what is the nature of agency a
 
 In _FALSAC Lives in an Environment_, I fantasized about FALSAC’s internal and external environment. Several biological concepts have inspired me, but this project does not aim for educational purposes. It is my experimentation for personal artistic and philosophical pursuits: the nature of **agency** and **life**.
 
-This project is developed for my Thesis At ITP, NYU Tisch.
+This project is developed for my Thesis at ITP, NYU Tisch.
 
 Full Documentation:
 

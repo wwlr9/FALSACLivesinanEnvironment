@@ -1,8 +1,8 @@
 # FALSAC Lives in an Environment
 
-Before talking about sentience and consciousness, what is the nature of **agency** and life? This is one of the ultimate questions debated in many fields, including philosophy, biology, etc. Building on selected features for what I think a living system should have, emphasizing the concept of homeostasis, I experiment to what extent a system could be alive and where a “seemingly existing agency” could exist, in an artistic way.
+Before talking about sentience and consciousness, what is the nature of agency and life? This is one of the ultimate questions debated in many fields, including philosophy, biology, etc. Building on selected features for what I think a living system should have, emphasizing the concept of homeostasis, I experiment to what extent a system could be alive and where a “seemingly existing agency” could exist, in an artistic way.
 
-In _FALSAC Lives in an Environment_, I fantasized about FALSAC’s internal and external environment. Several biological concepts have inspired me, but this project does not aim for educational purposes. It is my experimentation for personal artistic and philosophical pursuits: the nature of agency and life.
+In _FALSAC Lives in an Environment_, I fantasized about FALSAC’s internal and external environment. Several biological concepts have inspired me, but this project does not aim for educational purposes. It is my experimentation for personal artistic and philosophical pursuits: the nature of **agency** and **life**.
 
 ## FALSAC(Fantasized Artificial Living System Alike Centrolenidae(glass frog))
 ![FALSACVisual](/Images/FALSACVisual.png)

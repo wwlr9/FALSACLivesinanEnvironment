@@ -20,6 +20,7 @@ Full Documentation: link
 ### Meet FALSAC in the environment
 ![Install](/Images/Installation.jpg)
 
+Details:
 ![FALSACStates](/Images/FALSACStates.JPEG)
 (FALSAC without external stimuli,FALSAC with handleable stimuli, FALSAC with nonhandleable stimuli, dead FALSAC with nonhandleable stimuli,dead FALSAC)
 
@@ -44,5 +45,5 @@ FALSAC shows a “seeming existing agency” in a relatively deterministic way.
 ![ConceptEnvision](/Images/ConceptEnvision.png)
 
 ## Pictures from the installation
-![DEADInstall](/Images/DeathInstall.PNG)
-![StiInstall](/Images/StilInstall.PNG)
+![DEADInstall](/Images/DeathInstall.png)
+![StiInstall](/Images/StilInstall.png)

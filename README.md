@@ -30,5 +30,5 @@ But this result could be preventable. Before non-handleable stimuli appear, if F
 
 FALSAC shows a “seeming existing agency” in a relatively deterministic way.
 
-## My Concept Envision
+## FALSAC and its envionment:Concept Envision
 ![ConceptEnvision](/Images/ConceptEnvision.png)

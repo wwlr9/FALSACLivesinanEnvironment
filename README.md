@@ -17,7 +17,7 @@ Full Documentation: link
 ### Homeostasis
 
 ## The Narrative
-### Meet FALSAC in the environment
+### Meet FALSAC 
 ![Install](/Images/Installation.jpg)
 
 Details:
@@ -45,5 +45,5 @@ FALSAC shows a “seeming existing agency” in a relatively deterministic way.
 ![ConceptEnvision](/Images/ConceptEnvision.png)
 
 ## Pictures from the installation
-![DEADInstall](/Images/DeathInstall.png)
-![StiInstall](/Images/StilInstall.png)
+![DEADInstall](/Images/DeathInstall.jpg)
+![StiInstall](/Images/StiInstall.jpg)

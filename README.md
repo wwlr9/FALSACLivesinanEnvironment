@@ -11,7 +11,7 @@ Full Documentation: link
 ## FALSAC(Fantasized Artificial Living System Alike Centrolenidae(glass frog))
 ![FALSACVisual](/Images/FALSACVisual.png)
 
-## Concepts you may want to know
+## What you may want to know
 ### Agency
 “But if we break down agency into its constituents, we can see how it might arise even in the absence of a mind that ‘thinks’, at least in the traditional sense. Agency stems from two ingredients: first, an ability to produce different responses to identical (or equivalent) stimuli, and second, to select between them in a goal-directed way. Neither of these capacities is unique to humans, nor to brains in general.”–Philip Ball, _Life with purpose_
 

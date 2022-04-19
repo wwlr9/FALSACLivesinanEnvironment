@@ -52,3 +52,5 @@ FALSAC shows a “seeming existing agency” in a relatively deterministic way.
 ## Pictures from the Installation
 ![DeathInstall](/Images/DeathInstall.png)
 ![NonHandPortrait](/Images/NonHandPortrait.jpg)
+
+## Special Thanks

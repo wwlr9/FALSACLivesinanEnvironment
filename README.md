@@ -45,5 +45,5 @@ FALSAC shows a “seeming existing agency” in a relatively deterministic way.
 ![ConceptEnvision](/Images/ConceptEnvision.png)
 
 ## Pictures from the installation
-![DeathInstall](/Images/DeathInstall.jpg)
+![DeathInstall](/Images/DeathInstall.png)
 ![NonHandPortrait](/Images/NonHandPortrait.jpg)

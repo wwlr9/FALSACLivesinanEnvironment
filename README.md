@@ -6,7 +6,7 @@ In _FALSAC Lives in an Environment_, I fantasized about FALSAC’s internal and 
 
 This project is developed for my Thesis at ITP, NYU Tisch.
 
-Full Documentation:
+Full Documentation: link
 
 ## FALSAC(Fantasized Artificial Living System Alike Centrolenidae(glass frog))
 ![FALSACVisual](/Images/FALSACVisual.png)
@@ -18,8 +18,11 @@ Full Documentation:
 
 ## The Narrative
 ### Meet FALSAC in the environment
+![Install](/Images/Installation.jpg)
+
 ![FALSACStates](/Images/FALSACStates.JPEG)
 (FALSAC without external stimuli,FALSAC with handleable stimuli, FALSAC with nonhandleable stimuli, dead FALSAC with nonhandleable stimuli,dead FALSAC)
+
 ![DataStates](/Images/DataStates.JPEG)
 (FALSAC without external stimuli, FALSAC with external stimuli, FALSAC Fight, FALSAC Death)
 ### Reading
@@ -39,3 +42,7 @@ FALSAC shows a “seeming existing agency” in a relatively deterministic way.
 
 ## FALSAC and its envionment: Concept Envision
 ![ConceptEnvision](/Images/ConceptEnvision.png)
+
+## Pictures from the installation
+![DEADInstall](/Images/DeathInstall.PNG)
+![StiInstall](/Images/StilInstall.PNG)

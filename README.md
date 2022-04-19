@@ -13,7 +13,7 @@ Full Documentation: link
 
 ## What you may want to know
 ### Agency
-“But if we break down agency into its constituents, we can see how it might arise even in the absence of a mind that ‘thinks’, at least in the traditional sense. Agency stems from two ingredients: first, an ability to produce different responses to identical (or equivalent) stimuli, and second, to select between them in a goal-directed way. Neither of these capacities is unique to humans, nor to brains in general.”–Philip Ball, _Life with purpose_
+“But if we break down agency into its constituents, we can see how it might arise even in the absence of a mind that ‘thinks’, at least in the traditional sense. Agency stems from two ingredients: first, an ability to produce different responses to identical (or equivalent) stimuli, and second, to select between them in a goal-directed way. Neither of these capacities is unique to humans, nor to brains in general.”–Philip Ball, _Life with Purpose_
 
 “A thing cannot be consciout without having agency, but it can have agency without being conscious."–Jessica Riskin, _The Restless Clock_
 

@@ -17,8 +17,9 @@ Full Documentation:
 ### Homeostasis
 
 ## The Narrative
-### Meet FALSAC
-
+### Meet FALSAC in the environment
+![FALSACStates](/Images/FALSACStates.jpeg)
+![DataStates](/Images/DataStates.jpeg)
 ### Reading
 In terms of homeostasis, FALSAC’s “life” is supported by its internal system. This system includes a control center, gland A, gland B, and paths between them. FALSAC, as a “living system,” is also an open system, meaning that FALSAC could exchange matter and energy with FALSAC’s external environment to live.
 

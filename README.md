@@ -30,7 +30,7 @@ Details:
 
 ![DataStates](/Images/DataStates.JPEG)
 (FALSAC without external stimuli, FALSAC with external stimuli, FALSAC Fight, FALSAC Death)
-### Reading
+### What happened to FALSAC
 In terms of homeostasis, FALSAC’s “life” is supported by its internal system. This system includes a control center, gland A, gland B, and paths between them. FALSAC, as a “living system,” is also an open system, meaning that FALSAC could exchange matter and energy with FALSAC’s external environment to live.
 
 FALSAC “lives” in this environment. Without external stimuli in this environment, FALSAC’s internal system does a normal amount of work.

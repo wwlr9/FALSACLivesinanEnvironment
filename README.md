@@ -2,7 +2,7 @@
 
 In The Restless Clock, Riskin states that “a thing cannot be conscious without having agency, but it can have agency without being conscious.” What is the nature of agency and life? This question is debated in many fields, including philosophy and biology. Agency, a seemingly more primitive term than consciousness or sentience, grabs my attention. Building on selected features for what I think a living system should have, emphasizing the concept of homeostasis, I explore to what extent a system could be alive and where a “seemingly existing agency” could exist.
 
-In _FALSAC Lives in an Environment_, I fantasized about FALSAC’s internal and external environment, inspired by concepts from philosophy and biology. Through this piece, I explore the nature of **agency** and **life**.
+In _FALSAC Lives in an Environment_, I fantasize about the internal and external environment of FALSAC, inspired by concepts from philosophy and biology. Through this piece, I explore the nature of **agency** and **life**.
 
 This project is developed for Tiange's Thesis at ITP, NYU Tisch.
 

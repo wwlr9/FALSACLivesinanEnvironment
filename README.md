@@ -43,7 +43,6 @@ However, there will be times at which external stimuli are non-handleable. Non-h
 
 But this result could be preventable. Before non-handleable stimuli appear, if FALSAC has experienced enough times of handleable stimuli, FALSAC somehow gains the ability to foresee that this is the presence of non-handleable stimuli before its internal system’s failure. In this case, FALSAC applies its built-in fight mechanism. Then, as FALSAC’s internal system restores, FALSAC survives.
 
-FALSAC shows a “seeming existing agency” in a relatively deterministic way.
 
 ## FALSAC and Its Envionment: Concept Envision
 ![ConceptEnvision](/Images/ConceptEnvision.png)

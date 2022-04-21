@@ -39,7 +39,7 @@ There will be times at which external stimuli appear in this environment affecti
 
 One kind of stimulus is handleable. When FALSAC’s internal environment is affected by those stimuli and FALSAC senses this change in its internal environment, FALSAC starts to do more work supported by its internal system to maintain the relative constancy of its internal environment.
 
-However, there will be times at which external stimuli are non-handleable. Non-handleable stimuli would lead to problems of FALSAC’s internal system as it does more work. Without a relatively constant internal environment over time, FALSAC is no longer “alive.”
+However, there will be times at which external stimuli are non-handleable. Non-handleable stimuli would lead to problems of FALSAC’s internal system as it does too much work. Without a relatively constant internal environment over time, FALSAC is no longer “alive.”
 
 But this result could be preventable. Before non-handleable stimuli appear, if FALSAC has experienced enough times of handleable stimuli, FALSAC somehow gains the ability to foresee that this is the presence of non-handleable stimuli before its internal system’s failure. In this case, FALSAC applies its built-in fight mechanism. Then, as FALSAC’s internal system restores, FALSAC survives.
 

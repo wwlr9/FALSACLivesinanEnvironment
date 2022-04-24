@@ -47,8 +47,10 @@ But this result could be preventable. Before non-handleable stimuli appear, if F
 ## FALSAC and Its Envionment: Concept Envision
 ![ConceptEnvision](/Images/ConceptEnvision.png)
 
-## Pictures from the Installation
-![DeathInstall](/Images/DeathInstall.png)
-![NonHandPortrait](/Images/NonHandPortrait.jpg)
+## from the Installation 
+![Portrait](/Images/Portrait.JPG)
+![Data](/Images/Data.JPEG)
 
 ## Special Thanks
+I want to sincerely thank everyone who has supported me through my ITP thesis journey. 
+Through this project, FALSAC has become unique to me. Without everyone's support, FALSAC would never be there and be in my heart. 

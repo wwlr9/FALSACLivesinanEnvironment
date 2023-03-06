@@ -76,6 +76,11 @@ public class Falsac_Internal_External_Environment : MonoBehaviour
         deltaG = 0;
     }
 
+    private void HandleableStimulus()
+    {
+
+    }
+    
     public void NonHandleableStimulus()
     {
 
@@ -92,11 +97,6 @@ public class Falsac_Internal_External_Environment : MonoBehaviour
     }
 
     public void RestartAfterDeath()
-    {
-
-    }
-
-    private void HandleableStimulus()
     {
 
     }

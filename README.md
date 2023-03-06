@@ -45,7 +45,7 @@ But this result could be preventable. Before non-handleable stimuli appear, if F
 
 
 ## FALSAC and Its Envionment: Concept Envision
-Check FALSAC_Internal_External_Environment.cs in Code.
+Check FALSAC_Internal_External_Environment.cs in CodeGuidance.
 
 ![ConceptEnvision](/Images/ConceptEnvision.png)
 

@@ -21,7 +21,7 @@ Full Documentation: https://vimeo.com/700669307
 “Organisms, composed of material which is characterized by the utmost inconsistency and unsteadiness, have somehow learned the methods of maintaining constancy and keeping steady in the presence of conditions which might reasonably be expected to prove profoundly disturbing.” –Walter Cannon, American Physiologist
 
 ## The Narrative
-### Meet FALSAC 
+### Meet FALSAC
 ![Install](/Images/Installation.jpg)
 
 Details:
@@ -45,12 +45,13 @@ But this result could be preventable. Before non-handleable stimuli appear, if F
 
 
 ## FALSAC and Its Envionment: Concept Envision
+Check FALSAC_Internal_External_Environment.cs in Code. 
 ![ConceptEnvision](/Images/ConceptEnvision.png)
 
-## from the Installation 
+## from the Installation
 ![Portrait](/Images/Portrait.JPG)
 ![Data](/Images/Data.JPEG)
 
 ## Special Thanks
-I want to sincerely thank everyone who has supported me through my ITP thesis journey. 
-Through this project, FALSAC has become unique to me. Without everyone's support, FALSAC would never be there and be in my heart. 
+I want to sincerely thank everyone who has supported me through my ITP thesis journey.
+Through this project, FALSAC has become unique to me. Without everyone's support, FALSAC would never be there and be in my heart.

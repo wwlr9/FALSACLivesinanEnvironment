@@ -5,8 +5,9 @@ using UnityEngine.UI;
 
 public class Falsac_Internal_External_Environment : MonoBehaviour
 {
-    //This is NOT the original code file for FALSAC Lives in an Environment
-    //This file is only used for conceptual guidance
+    //This file is used for conceptual guidance, corresponding to "What happened to FALSAC"
+    //This is NOT the complete code for FALSAC Lives in an Environment
+
 
     #region ExternalEnvironment
     private float energy;//energy from external environmetn is metabolized.
@@ -56,7 +57,7 @@ public class Falsac_Internal_External_Environment : MonoBehaviour
     {
         //original Environment
 
-        //HandleableStimulus
+        //Handleable stimulus
 
         //Nonhandleable stimulus
 
@@ -80,7 +81,7 @@ public class Falsac_Internal_External_Environment : MonoBehaviour
     {
 
     }
-    
+
     public void NonHandleableStimulus()
     {
 

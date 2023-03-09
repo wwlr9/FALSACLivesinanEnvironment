@@ -17,13 +17,13 @@ Full Documentation: https://vimeo.com/700669307
 
 “A thing cannot be consciout without having agency, but it can have agency without being conscious."–Jessica Riskin, _The Restless Clock_
 
+### Homeostasis
+“Organisms, composed of material which is characterized by the utmost inconsistency and unsteadiness, have somehow learned the methods of maintaining constancy and keeping steady in the presence of conditions which might reasonably be expected to prove profoundly disturbing.” –Walter Cannon, American Physiologist
+
 ## FALSAC and Its Envionment: Envision
 Check FALSAC_Internal_External_Environment.cs in CodeGuidance.
 ![ConceptEnvision](/Images/ConceptEnvision.png)
 ![ConceptState](/Images/FALSACStatesConcept.png)
-
-### Homeostasis
-“Organisms, composed of material which is characterized by the utmost inconsistency and unsteadiness, have somehow learned the methods of maintaining constancy and keeping steady in the presence of conditions which might reasonably be expected to prove profoundly disturbing.” –Walter Cannon, American Physiologist
 
 ## The Narrative
 ### Meet FALSAC

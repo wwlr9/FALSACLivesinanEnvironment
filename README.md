@@ -17,6 +17,11 @@ Full Documentation: https://vimeo.com/700669307
 
 “A thing cannot be consciout without having agency, but it can have agency without being conscious."–Jessica Riskin, _The Restless Clock_
 
+## FALSAC and Its Envionment: Envision
+Check FALSAC_Internal_External_Environment.cs in CodeGuidance.
+![ConceptEnvision](/Images/ConceptEnvision.png)
+![ConceptState](/Images/FALSACStatesConcept.png)
+
 ### Homeostasis
 “Organisms, composed of material which is characterized by the utmost inconsistency and unsteadiness, have somehow learned the methods of maintaining constancy and keeping steady in the presence of conditions which might reasonably be expected to prove profoundly disturbing.” –Walter Cannon, American Physiologist
 
@@ -42,12 +47,6 @@ One kind of stimulus is handleable. When FALSAC’s internal environment is affe
 However, there will be times at which external stimuli are non-handleable. Non-handleable stimuli would lead to problems of FALSAC’s internal system as it does too much work. Without a relatively constant internal environment over time, FALSAC is no longer “alive.”
 
 But this result could be preventable. Before non-handleable stimuli appear, if FALSAC has experienced enough times of handleable stimuli, FALSAC somehow gains the ability to foresee that this is the presence of non-handleable stimuli before its internal system’s failure. In this case, FALSAC applies its built-in fight mechanism. Then, as FALSAC’s internal system restores, FALSAC survives.
-
-
-## FALSAC and Its Envionment: Concept Envision
-Check FALSAC_Internal_External_Environment.cs in CodeGuidance.
-
-![ConceptEnvision](/Images/ConceptEnvision.png)
 
 ## from the Installation
 ![Portrait](/Images/Portrait.JPG)

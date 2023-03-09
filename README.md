@@ -21,7 +21,7 @@ Full Documentation: https://vimeo.com/700669307
 “Organisms, composed of material which is characterized by the utmost inconsistency and unsteadiness, have somehow learned the methods of maintaining constancy and keeping steady in the presence of conditions which might reasonably be expected to prove profoundly disturbing.” –Walter Cannon, American Physiologist
 
 ## FALSAC and Its Envionment: Envision
-Check FALSAC_Internal_External_Environment.cs in CodeGuidance.
+Check FALSAC_Internal_External_Environment.cs in CodeGuidance. <br> 
 Major biological inspirations: homeostasis(negative feedback), glucose regulation(insulin resistance), fight/flight response, stress physiology, open system, randomness in nature.
 ![ConceptEnvision](/Images/ConceptEnvision.png)
 ![ConceptState](/Images/FALSACStatesConcept.png)

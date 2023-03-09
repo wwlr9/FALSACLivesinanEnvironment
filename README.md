@@ -22,6 +22,7 @@ Full Documentation: https://vimeo.com/700669307
 
 ## FALSAC and Its Envionment: Envision
 Check FALSAC_Internal_External_Environment.cs in CodeGuidance.
+Major biological inspirations: homeostasis(negative feedback), glucose regulation(insulin resistance), fight/flight response, stress physiology, open system, randomness in nature.
 ![ConceptEnvision](/Images/ConceptEnvision.png)
 ![ConceptState](/Images/FALSACStatesConcept.png)
 

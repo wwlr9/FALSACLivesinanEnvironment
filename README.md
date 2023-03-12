@@ -32,8 +32,8 @@ Process Documentation: https://www.notion.so/tiangeblog/FALSAC-Lives-in-an-Envir
 FALSAC's internal environment is supported by a math model, simulating a simplified version of homeostasis. <br>
 Check FALSAC_Internal_External_Environment.cs in CodeGuidance. <br>
 
-Major biological inspirations: homeostasis(negative feedback), glucose regulation(insulin resistance), fight/flight response, stress physiology, open system, randomness in nature.
-
+Major biological inspiration: homeostasis(negative feedback), glucose regulation(insulin resistance), fight/flight response, stress physiology, open system, randomness in nature. <br>
+Major Science fiction inspiration: The Measure of a Man. Star Trek: The Next Generation Season 2 Episode 9.
 ![ConceptEnvision](/Images/ConceptEnvision.png)
 ![ConceptState](/Images/FALSACStatesConcept.png)
 

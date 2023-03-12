@@ -1,12 +1,19 @@
 # FALSAC Lives in an Environment
 
-In The Restless Clock, Riskin states that “a thing cannot be conscious without having agency, but it can have agency without being conscious.” What is the nature of agency and life? This question is debated in many fields, including philosophy and biology. Agency, a seemingly more primitive term than consciousness or sentience, grabs my attention. Building on selected features for what I think a living system should have, emphasizing the concept of homeostasis, I explore to what extent a system could be alive and where a “seemingly existing agency” could exist.
+In The Restless Clock, Riskin states that “a thing cannot be conscious without having agency, but it can have agency without being conscious.” What is the nature of agency and life? This question has been debated in many fields including philosophy and biology. With this question in mind, I conducted multidisciplinary research and made _FALSAC Lives in an Environment_, a simulation art installation. I explored to what extent a system could be alive and where a “seemingly existing agency” could exist, in the context of **survival**.
 
-In _FALSAC Lives in an Environment_, I fantasize about the internal and external environment of FALSAC, _Fantasized Artificial Living System Alike Centrolenidae(glass frog)_. Inspired by concepts from philosophy and biology, I make FALSAC's "seemingly existing agency" hidden in FALSAC's different states, implying several critical abilities FALSAC owned to survive. Through this piece, I explore the nature of **agency** and **life** in the context of survival.
+Supported by a relatively stable internal environment, living systems survive in their disturbing external environment. This statement describes a critical concept in physiology, called homeostasis. Inspired by several concepts in biology, from homeostasis to stress physiology, in _FALSAC Lives in an Environment_, I fantasize about the internal and external environment of FALSAC(Fantasized Artificial Living System Alike Centrolenidae(glass frog)) in its algorithm.
+
+In brief, FALSAC is a living system and thus an open system. FALSAC's internal system maintains its internal environment in a relatively stable state through negative feedback. FALSAC's external environment is intrinsically disturbing with stimuli(beneficial or adverse). In three different states of its external environment, FALSAC exhibits four different states of its internal environment, resulting in either its survival or death. This narrative implies several critical abilities FALSAC owned.
+
+The measure of key parameters of FALSAC’s internal and external environment is visualized.
+
+Through this piece, I invite people to engage **three questions** with me: Does a pursuit of survival supported by homeostasis imply a biological agency in an artificial living system like FALSAC? In addition or alternative to higher cognitive functions, could there be other strategies for an artificial living system to sense the threat and thus fight to survive in its external environment? If developing AIs with a will of survival could show comparative biological agency, how should we envision future human-AI relationships?
 
 This project is developed for Tiange's Thesis at ITP, NYU Tisch.
 
 Full Documentation: https://vimeo.com/700669307
+ITP Thesis Presentation: https://vimeo.com/716561399
 
 ## FALSAC(Fantasized Artificial Living System Alike Centrolenidae(glass frog))
 ![FALSACVisual](/Images/FALSACVisual.png)

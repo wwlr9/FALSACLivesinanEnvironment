@@ -12,7 +12,7 @@ Through this piece, I invite people to engage **three questions** with me: Does 
 
 This project is developed for Tiange's Thesis at ITP, NYU Tisch.
 
-Full Recoding: https://vimeo.com/700669307<br>
+Full Recording: https://vimeo.com/700669307<br>
 ITP Thesis Presentation: https://vimeo.com/716561399<br>
 Process Documentation: https://www.notion.so/tiangeblog/FALSAC-Lives-in-an-Environment-bebe69653ec043d3ac89fae177871ba8
 

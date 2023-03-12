@@ -12,8 +12,9 @@ Through this piece, I invite people to engage **three questions** with me: Does 
 
 This project is developed for Tiange's Thesis at ITP, NYU Tisch.
 
-Full Documentation: https://vimeo.com/700669307
-ITP Thesis Presentation: https://vimeo.com/716561399
+Full Recoding: https://vimeo.com/700669307<br>
+ITP Thesis Presentation: https://vimeo.com/716561399<br>
+Process Documentation: https://www.notion.so/tiangeblog/FALSAC-Lives-in-an-Environment-bebe69653ec043d3ac89fae177871ba8
 
 ## FALSAC(Fantasized Artificial Living System Alike Centrolenidae(glass frog))
 ![FALSACVisual](/Images/FALSACVisual.png)
@@ -28,6 +29,7 @@ ITP Thesis Presentation: https://vimeo.com/716561399
 “Organisms, composed of material which is characterized by the utmost inconsistency and unsteadiness, have somehow learned the methods of maintaining constancy and keeping steady in the presence of conditions which might reasonably be expected to prove profoundly disturbing.” –Walter Cannon, American Physiologist
 
 ## FALSAC and Its Envionment: Envision
+FALSAC's internal environment is supported by a math model, simulating a simplified version of homeostasis. <br>
 Check FALSAC_Internal_External_Environment.cs in CodeGuidance. <br>
 
 Major biological inspirations: homeostasis(negative feedback), glucose regulation(insulin resistance), fight/flight response, stress physiology, open system, randomness in nature.

@@ -8,7 +8,13 @@ In brief, FALSAC is a living system and thus an open system. FALSAC's internal s
 
 The measure of key parameters of FALSAC’s internal and external environment is visualized.
 
-Through this piece, I invite people to engage **three questions** with me: Does a pursuit of survival supported by homeostasis imply a biological agency in an artificial living system like FALSAC? In addition or alternative to higher cognitive functions, could there be other strategies for an artificial living system to sense the threat and thus fight to survive in its external environment? If developing AIs with a will of survival could show comparative biological agency, how should we envision future human-AI relationships?
+"What is the nature of agency and life" is debated in many fields, including philosophy and biology. With this question, I conducted interdisciplinary research, resulting in FALSAC Lives in an Environment, a simulation artwork exploring to what extent a system could be alive and where a "seemingly existing agency" exists, in the context of survival.
+
+Supported by a relatively stable internal environment, living systems survive in their disturbing external environment. This statement indicates a critical concept in physiology: homeostasis. Inspired by concepts in biology, from homeostasis to stress physiology, in this project, I fantasize about the internal and external environment of FALSAC(Fantasized Artificial Living System Alike Centrolenidae) in its algorithm.
+
+Briefly, FALSAC is a living system and, thus, an open system. FALSAC's internal system maintains its internal environment in a relatively stable state through negative feedback. FALSAC's external environment is disturbing with stimuli(beneficial or adverse). In three states of its external environment, FALSAC exhibits four states of its internal environment, resulting in either its survival or death, implying several critical abilities FALSAC owned.
+
+Through this piece, I applied a primitive pursuit(**a will to survive**) of any living system supported by homeostasis to depict biological agency in a fantasized artificial living system(FALSAC). I ask, in addition to or alternative to higher cognitive functions, could other strategies exist for an artificial living system to sense the threat and fight to survive? If developing AIs with a will of survival results in a comparative biological agency, how should we envision future human-AI relationships?
 
 This project is developed for Tiange's Thesis at ITP, NYU Tisch.
 

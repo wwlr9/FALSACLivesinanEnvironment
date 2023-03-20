@@ -16,7 +16,7 @@ Full video recording of the installation: https://vimeo.com/700669307<br>
 ITP thesis presentation: https://vimeo.com/716561399<br>
 Process documentation: https://www.notion.so/tiangeblog/FALSAC-Lives-in-an-Environment-bebe69653ec043d3ac89fae177871ba8
 
-## Concept Summary
+## Concept Overview
 ![Myconcept](/Images/FALSAC_Summary.png)
 
 ## FALSAC(Fantasized Artificial Living System Alike Centrolenidae(glass frog))

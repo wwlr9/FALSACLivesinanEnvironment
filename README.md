@@ -10,7 +10,7 @@ The measure of key parameters of FALSAC’s internal and external environment is
 
 Through this piece, I applied a primitive pursuit(**a will to survive**) of any living system supported by homeostasis to depict biological agency in a fantasized artificial living system(FALSAC). I ask, in addition to or alternative to higher cognitive functions, could other strategies exist for an "artificial living system" to sense the threat and fight to survive? If developing AIs with a will of survival results in a comparative biological agency, how should we envision future human-AI relationships?
 
-This project is developed for Tiange's Thesis at ITP, NYU Tisch, coded in C# in Unity3D.
+This project is developed for Tiange's Thesis at ITP, NYU Tisch, coded in C# in Unity3D.<br>
 Full video recording of the installation: https://vimeo.com/700669307<br>
 ITP thesis presentation: https://vimeo.com/716561399<br>
 Process documentation: https://www.notion.so/tiangeblog/FALSAC-Lives-in-an-Environment-bebe69653ec043d3ac89fae177871ba8

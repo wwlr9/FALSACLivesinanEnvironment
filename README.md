@@ -12,9 +12,12 @@ Through this piece, I applied a primitive pursuit(**a will to survive**) of any 
 
 This project is developed for Tiange's Thesis at ITP, NYU Tisch.
 
-Full Recording: https://vimeo.com/700669307<br>
-ITP Thesis Presentation: https://vimeo.com/716561399<br>
-Process Documentation: https://www.notion.so/tiangeblog/FALSAC-Lives-in-an-Environment-bebe69653ec043d3ac89fae177871ba8
+Full video recording of the installation: https://vimeo.com/700669307<br>
+ITP thesis presentation: https://vimeo.com/716561399<br>
+Process documentation: https://www.notion.so/tiangeblog/FALSAC-Lives-in-an-Environment-bebe69653ec043d3ac89fae177871ba8
+
+## Concept Summary
+![Myconcept](/Images/FALSAC_Summary.png)
 
 ## FALSAC(Fantasized Artificial Living System Alike Centrolenidae(glass frog))
 ![FALSACVisual](/Images/FALSACVisual.png)
@@ -32,8 +35,8 @@ Process Documentation: https://www.notion.so/tiangeblog/FALSAC-Lives-in-an-Envir
 FALSAC's internal environment is supported by a math model, simulating a simplified version of homeostasis. <br>
 Check FALSAC_Internal_External_Environment.cs in CodeGuidance. <br>
 
-Major biological inspiration: homeostasis(negative feedback), glucose regulation(insulin resistance), fight/flight response, stress physiology, open system, randomness in nature. <br>
-Major Science fiction inspiration: The Measure of a Man. Star Trek: The Next Generation Season 2 Episode 9.
+**Major biological inspiration**: homeostasis(negative feedback), glucose regulation(insulin resistance), fight/flight response, stress physiology, open system, randomness in nature. <br>
+**Major Science fiction inspiration**: The Measure of a Man. Star Trek: The Next Generation Season 2 Episode 9.
 ![ConceptEnvision](/Images/ConceptEnvision.png)
 ![ConceptState](/Images/FALSACStatesConcept.png)
 
@@ -41,7 +44,7 @@ Major Science fiction inspiration: The Measure of a Man. Star Trek: The Next Gen
 ### Meet FALSAC
 ![Install](/Images/Installation.jpg)
 
-Details:
+Screenshots from the video recording of FALSAC's states:
 ![FALSACStates](/Images/FALSACStates.JPEG)
 (FALSAC without external stimuli,FALSAC with handleable stimuli, FALSAC with nonhandleable stimuli, dead FALSAC with nonhandleable stimuli,dead FALSAC)
 

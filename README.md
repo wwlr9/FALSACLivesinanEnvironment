@@ -1,20 +1,20 @@
 # FALSAC Lives in an Environment
 
-In The Restless Clock, Riskin states that “a thing cannot be conscious without having agency, but it can have agency without being conscious.” "What is the nature of agency and life" is debated in many fields, including philosophy and biology. With this question, I conducted interdisciplinary research, resulting in _FALSAC Lives in an Environment_, a simulation artwork exploring to what extent a system could be alive and where a "seemingly existing agency" exists, in the context of **survival**. 
+In The Restless Clock, Riskin states that “a thing cannot be conscious without having agency, but it can have agency without being conscious.” "What is the nature of agency and life" is debated in many fields, including philosophy and biology. With this question, I conducted interdisciplinary research, resulting in _FALSAC Lives in an Environment_, a simulation exploring the extent to which a system could be alive and where a "seemingly existing agency" exists in the context of survival.
 
-Supported by a relatively stable internal environment, living systems survive in their disturbing external environment. This statement describes a critical concept in physiology, called homeostasis. Inspired by several concepts in biology, from homeostasis to stress physiology, in _FALSAC Lives in an Environment_, I fantasize about the internal and external environment of FALSAC(Fantasized Artificial Living System Alike Centrolenidae(glass frog)) in its algorithm.
+Supported by a relatively stable internal environment, living systems survive in their disturbing external environment. Inspired by several concepts in biology, from homeostasis to stress physiology, in _FALSAC Lives in an Environment_, I fantasize about the internal and external environment of FALSAC(Fantasized Artificial Living System Alike Centrolenidae(glass frog)) in its algorithm.
 
-Briefly, FALSAC is a living system and, thus, an open system. FALSAC's internal system maintains its internal environment in a relatively stable state through negative feedback. FALSAC's external environment is disturbing with stimuli(beneficial or adverse). In three states of its external environment, FALSAC exhibits four states of its internal environment, resulting in either its survival or death, implying several critical abilities FALSAC owned.
+Briefly, FALSAC is a living system and, thus, an open system. FALSAC's internal system maintains its internal environment in a relatively stable state through negative feedback. FALSAC's external environment is affected by stimuli (beneficial or adverse). In three different states of its external environment, FALSAC exhibits four states of its internal environment, resulting in either its survival or death, implying several critical abilities FALSAC should possess. This raises the question: how much of this framework is needed to see “agency” in FALSAC?
 
 The measure of key parameters of FALSAC’s internal and external environment is visualized.
 
-Through this piece, I invite people to engage three questions with me: Does a pursuit of survival imply a biological agency in an artificial living system(i.e., FALSAC)? In addition to or alternative to higher cognitive functions, could other strategies exist for an artificial living system to sense the threat and fight to survive? If developing AIs with a will of survival results in a comparative biological agency, how should we envision future human-AI relationships?
+This artwork does not aim to provide an answer about the nature of agency and life. Rather, its goal is to raise awareness of this question that has been in the human mind from the past to the present and into the future. This artwork documents one way we can approach it and the specific difficulties we might face.
 
 
 This project is developed for Tiange's Thesis at ITP, NYU Tisch, coded in C# in Unity3D.<br>
-Full video recording of the installation: https://vimeo.com/700669307<br>
+Full video recording: https://vimeo.com/700669307<br>
 ITP thesis presentation: https://vimeo.com/716561399<br>
-Process documentation: https://www.notion.so/tiangeblog/FALSAC-Lives-in-an-Environment-bebe69653ec043d3ac89fae177871ba8
+Documentation: https://www.notion.so/tiangeblog/FALSAC-Lives-in-an-Environment-bebe69653ec043d3ac89fae177871ba8
 
 ## Concept Overview
 ![Myconcept](/Images/FALSAC_Summary.png)
